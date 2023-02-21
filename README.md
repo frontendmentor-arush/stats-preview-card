@@ -1,3 +1,3 @@
-# Frontend Mentor - Stats preview card component
+# Frontend Mentor - Stats preview card component using grid
 
-Live link:
+Live link: https://frontendmentor-arush.github.io/stats-preview-card/
